@@ -1,0 +1,15 @@
+{
+    "kategori_pekerjaan": [
+        ["Website", "website"],
+        ["Konten", "konten"],
+        ["Desain", "desain"],
+        ["Marketing", "marketing"],
+        ["Customer Service", "cs"],
+        ["Lainnya", "lainnya"]
+    ],
+    "perusahaan": [
+        ["Grand Petruk Palace", "gpp"],
+        ["Petruk Network", "pnet"],
+        ["Lainnya", "perusahaan-lainnya"]
+    ]
+}
